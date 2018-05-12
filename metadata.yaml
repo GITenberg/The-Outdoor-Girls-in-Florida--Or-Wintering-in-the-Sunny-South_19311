@@ -1,0 +1,31 @@
+_repo: The-Outdoor-Girls-in-Florida--Or-Wintering-in-the-Sunny-South_19311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: '"The parents of one of the girls have bought an orange grove in Florida,
+  and her companions are invited to visit the place. They take a trip into the interior,
+  where several unusual things happen."--P. [206].'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Florida -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Outdoor Girls in Florida; Or, Wintering in the Sunny South
+url: http://www.gutenberg.org/ebooks/19311
